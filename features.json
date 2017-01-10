@@ -6,7 +6,7 @@
     "ember-application-engines": true,
     "ember-glimmer": false,
     "ember-runtime-computed-uniq-by": true,
-    "ember-improved-instrumentation": false,
+    "ember-improved-instrumentation": true,
     "ember-runtime-enumerable-includes": true,
     "ember-string-ishtmlsafe": true,
     "ember-testing-check-waiters": true,
